@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hassaankhan113
-- 👀 I’m interested in learnign progamming 
+- 👀 I’m interested in learnin progamming 
 - 🌱 I’m currently learning html and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
